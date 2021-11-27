@@ -1,2 +1,3 @@
 # simbernal.github.io
-Personal page
+👋
+Simon Bernal
