@@ -1,3 +1,2 @@
-# simbernal.github.io
+# Simon Bernal
 👋
-Simon Bernal
